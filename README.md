@@ -6,6 +6,7 @@
 * Implement generic classes
 
 ## CSCI-UA 102: Data Structures
+* Project 3
 
 ## Author
 * Rebecca Hom
